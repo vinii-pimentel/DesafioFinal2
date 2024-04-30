@@ -11,10 +11,9 @@ export default function Inicio() {
       <S.Container>
         <S.BoxInicio>
           <div>
-          <h2>Olá meu nome e Junhinho sou dev Front-End</h2>
+          <h2>Olá meu nome e Vinicius Pimentel sou dev Front-End</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo
-            tenetur iusto accusamus, quidem quisquam iure qui.
+            E este é meu projeto final no curso do Vai Na Web, meu primeiro Portfólio!
             </p>
             <S.Cv><a href={exemplo} target="blank">Currículo</a></S.Cv>
             </div>

@@ -42,6 +42,12 @@ img{
       height: 9vh;
    }
 `;
+export const Foto = styled.img`
+/*border-radius: 50%; 
+   width: 100%;
+   text-align: center;
+   color: white; */
+`;
 export const Title = styled.h2`
 /* border: solid 2px green;  */
    width: 100%;
